@@ -20,10 +20,10 @@ In this relatively small dataset, all 18 features are numeric or numerically enc
 This project applies machine learning techniques to make predictive decisions, ultimately enabling hotel owners to better understand reservation cancellation patterns and adjust their strategies accordingly.
 
 
-## Setting/env
+## Setting
 
 Please download env.yml then create envioronment by 'conda env create -f env.yml'
-Activate the envioronment env
+Run the project on the env.
 
 
 ## Libraries
