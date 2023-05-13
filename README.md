@@ -23,6 +23,7 @@ This project applies machine learning techniques to make predictive decisions, u
 ## Setting
 
 Please download env.yml then create envioronment by 'conda env create -f env.yml'
+
 Run the project on the env.
 
 
